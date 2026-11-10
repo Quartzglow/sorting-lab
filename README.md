@@ -122,4 +122,4 @@ powershell -ExecutionPolicy Bypass -File .\SortingLab.ps1
 
 ## Лицензия
 
-[MIT](LICENSE) © 2026 skerdonovandruha-creator
+[MIT](LICENSE) © 2026 Quartzglow
